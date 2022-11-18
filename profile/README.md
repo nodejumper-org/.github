@@ -8,19 +8,21 @@ We are the [Nodejumper.io](https://nodejumper.io/) team - a professional PoS val
 
 For each of our supported networks we provide professional validation services and advanced on-chain analytics tools such as:
 
-1. Node Installation scripts with manual & automatic options.
+1. Node decentralization map 
 
-2. Node synchronization scripts.
+2. Node Installation scripts with manual & automatic options
 
-3. Public RPC endpoints.
+3. Node synchronization scripts
 
-4. Fresh network snapshots.
+4. Public RPC endpoints
 
-5. Cheat sheet for most popular blockchain commands (validator profile, wallet, token management and etc.).
+5. Fresh network snapshots
 
-6. Blockchain ecosystem/tools overview with user-friendly interface (both web & mobile).
+6. Cheat sheet for most popular blockchain commands (validator profile, wallet, token management and etc.)
 
-7. Blockchain analytics for community: tokenomics, price/trading stats, comission & voting power distribution.
+7. Blockchain ecosystem/tools overview with user-friendly interface (both web & mobile)
+
+8. Blockchain analytics for community: tokenomics, price/trading stats, comission & voting power distribution
 
 
 #  Main Resources
