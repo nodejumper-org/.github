@@ -27,7 +27,7 @@ For each of our supported networks we provide professional validation services a
 
 #  Main Resources
 
-### 🛠 [Nodejumper app](https://github.com/nodejumper-org/nodejumper) 
+### 🛠 [Nodejumper app](https://nodejumper.io) 
 _A multi tool for cosmos based networks_
 
 ### 🧰 [Cosmos scripts](https://github.com/nodejumper-org/cosmos-scripts) 
