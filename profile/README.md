@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/17406355/183674677-613c02cc-2fb9-4f6b-b6c1-f63990a4a9e0.jpeg)
+![banner](https://user-images.githubusercontent.com/27004732/212525833-4b7eccc3-c763-4b29-a92f-1d9837303324.png)
 
 # 👥 Who we are
 
