@@ -2,7 +2,7 @@
 
 # 👥 Who we are
 
-We are the [Nodejumper.io](https://nodejumper.io/) team - a professional PoS validator that is focused on blockchain consumers & validators, helping them to easily join the Cosmos SDK community and make it bigger and more valuable. Our validation experience includes 20 chains and the number is constantly growing! 
+We are the [Nodejumper.io](https://nodejumper.io/) team - a professional PoS validator that is focused on blockchain consumers & validators, helping them to easily join the Cosmos SDK community and make it bigger and more valuable. Our validation experience includes 30 chains and the number is constantly growing! 
 
 # 🧗 What are we doing
 
