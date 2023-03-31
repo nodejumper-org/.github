@@ -5,8 +5,6 @@
   &nbsp; &nbsp;
   <a href="https://t.me/nodejumper"><img src="/profile/static/telegram.svg" width="64" alt="Telegram ENG" /></a>
   &nbsp; &nbsp;
-  <a href="https://t.me/nodejumper_ru"><img src="/profile/static/telegram.svg" width="64" alt="Telegram RU" /></a>
-  &nbsp; &nbsp;
   <a href="https://github.com/nodejumper-org"><img src="/profile/static/github.svg" width="64" alt="Github Organization"/></a>
   &nbsp; &nbsp;
   <a href="https://twitter.com/nodejumper"><img src="/profile/static/twitter.svg" width="64" alt="Twitter Feed"/></a>
