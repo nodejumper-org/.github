@@ -1,4 +1,4 @@
-[![NODEJUMPER github banner](/profile/static/nj-banner.png)
+![NODEJUMPER github banner](/profile/static/nj-banner.png)
 
 <p align="center">
   <a href="https://discord.gg/7WcRaYHDXe"><img src="/profile/static/discord.svg" width="64" /></a>
