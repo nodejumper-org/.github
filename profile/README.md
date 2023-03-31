@@ -16,7 +16,7 @@
 
 ## 🏢 About Us 
 
-Nodejumper is a professional POS validator and staking provider for Cosmos ecosystem projects. Our extensive validation portfolio includes over 40 chains running on top-level hardware. As a tech-focused project, we actively contribute to open-source projects and deliver conference presentations for the crypto community. With a remote team of software engineers, analysts, designers, and moderators, Nodejumper's web services draw over 5K monthly users with 100K views. The community of 1.5K+ members is growing daily, and we support 5–10 new testnets every month. Nodejumper is recommended as a valuable data analytics and scripting tool by many crypto projects. Our infrastructure includes more than 30 dedicated servers around the world. Team core values include building relationships, being curious and open, and making a difference every day.
+Nodejumper is a professional POS validator and staking provider for Cosmos ecosystem projects. Our extensive validation portfolio includes over 40 chains running on top-level hardware. As a tech-focused project, we actively contribute to open-source projects and deliver conference presentations for the crypto community. With a remote team of software engineers, analysts, designers, and moderators, Nodejumper's web services draw over 5K monthly users with 100K views. The community of 3K+ members is growing daily, and we support 5–10 new testnets every month. Nodejumper is recommended as a valuable data analytics and scripting tool by many crypto projects. Our infrastructure includes more than 30 dedicated servers around the world. Team core values include building relationships, being curious and open, and making a difference every day.
 
 ## 🎖️ Our Achievements
 
