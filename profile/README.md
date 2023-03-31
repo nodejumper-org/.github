@@ -63,6 +63,9 @@ _Huge variety of utility tools and data analytics for the Cosmos Ecosystem._
 ### 🤖 [Telegram Proposal Bot](https://t.me/nodejumper_governance_bot)
 _A telegram bot to notify users of governance proposals when they're available for voting._
 
+### 🤖 [Cosmos Monitoring Tool](https://github.com/nodejumper-org/monitoring-tool)
+_A powerful and easy-to-use monitoring tool for server hardware and validator nodes with alerts via telegram bot and grafana dashboards._
+
 ### 🛠 [Cosmos Scripts](https://github.com/nodejumper-org/cosmos-scripts) 
 _Installation and upgrade scripts for the Cosmos Ecosystem._
 
