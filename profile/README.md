@@ -1,40 +1,69 @@
-![banner](https://user-images.githubusercontent.com/27004732/212525833-4b7eccc3-c763-4b29-a92f-1d9837303324.png)
+[![NODEJUMPER github banner](/profile/static/nj-banner.png)
 
-# 👥 Who we are
+<p align="center">
+  <a href="https://discord.gg/7WcRaYHDXe"><img src="/profile/static/discord.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://t.me/nodejumper"><img src="/profile/static/telegram.svg" width="64" /></a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/nodejumper-org"><img src="/profile/static/github.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://twitter.com/nodejumper"><img src="/profile/static/twitter.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://medium.com/@NODEJUMPER"><img src="/profile/static/medium.svg" width="64" /></a>
 
-We are the [Nodejumper.io](https://nodejumper.io/) team - a professional PoS validator that is focused on blockchain consumers & validators, helping them to easily join the Cosmos SDK community and make it bigger and more valuable. Our validation experience includes 30 chains and the number is constantly growing! 
+<a href="https://www.youtube.com/playlist?list=PLto8z5hKJjmtaN1ToLW2CswOtoeiQbSCa"><img src="/profile/static/youtube.svg" width="64" /></a>
+  &nbsp; &nbsp;
+</p>
 
-# 🧗 What are we doing
+## 🏢 About Us 
 
-For each of our supported networks we provide professional validation services and advanced on-chain analytics tools such as:
+Nodejumper is a professional POS validator and staking provider for Cosmos ecosystem projects. Our extensive validation portfolio includes over 40 chains running on top-level hardware. As a tech-focused project, we actively contribute to open-source projects and deliver conference presentations for the crypto community. With a remote team of software engineers, analysts, designers, and moderators, Nodejumper's web services draw over 5K monthly users with 100K views. The community of 1.5K+ members is growing daily, and we support 5–10 new testnets every month. Nodejumper is recommended as a valuable data analytics and scripting tool by many crypto projects. Our infrastructure includes more than 30 dedicated servers around the world. Team core values include building relationships, being curious and open, and making a difference every day.
 
-1. Node decentralization map 
+## 🎖️ Our Achievements
 
-2. Node Installation scripts with manual & automatic options
-
-3. Node synchronization scripts
-
-4. Public RPC endpoints
-
-5. Fresh network snapshots
-
-6. Cheat sheet for most popular blockchain commands (validator profile, wallet, token management and etc.)
-
-7. Blockchain ecosystem/tools overview with user-friendly interface (both web & mobile)
-
-8. Blockchain analytics for community: tokenomics, price/trading stats, comission & voting power distribution
-
-
-#  Main Resources
-
-### 🛠 [Nodejumper app](https://nodejumper.io) 
-_A multi tool for cosmos based networks_
-
-### 🧰 [Cosmos scripts](https://github.com/nodejumper-org/cosmos-scripts) 
-_Useful utils for cosmos chains_
-
-### 📖 [Documentation](https://github.com/nodejumper-org/nodejumper/wiki)
-_Learn about how to use Nodejumper tools_
+<img src="https://img.shields.io/badge/Genesis%20Validators-10-brightgreen">
+<img src="https://img.shields.io/badge/Supported%20Project-41-brightgreen">
+<img src="https://img.shields.io/badge/Unique%20Users%20Monthly-5K-brightgreen">
+<img src="https://img.shields.io/badge/Views%20Monthly-100K-brightgreen">
+<img src="https://img.shields.io/badge/Community%20Members-3K-brightgreen">
+<img src="https://img.shields.io/badge/Commits%20in%20the%20last%206%20months-2K-brightgreen">
+<img src="https://img.shields.io/badge/Open%20Pull%20Requests%20&%20Issues-20-brightgreen">
+<img src="https://img.shields.io/badge/Years%20of%20IT%20Experties-10-brightgreen">
 
 
+## 💫 Our Services
 
+Apart from the secure, reliable and professional validation services with advanced monitoring and alerting system and 24/7 support, for each of our supported networks we provide advanced on-chain analytics tools such as:
+
+1. Node decentralization map;
+
+2. Node Installation scripts with manual & automatic options;
+
+3. Node synchronization scripts;
+
+4. Public RPC endpoints;
+
+5. Fresh network snapshots;
+
+6. Cheat sheet for most popular blockchain commands (validator profile, wallet, token management, etc.);
+
+7. Blockchain ecosystem/tools overview with user-friendly interface (both web & mobile);
+
+8. Blockchain analytics for community: tokenomics, price/trading stats, comission & voting power distribution;
+
+9. Telegram/Discord governance proposal bot;
+
+
+##  💎 Our Products
+
+### 🏔️ [Cosmos Interchain Utility](https://nodejumper.io) 
+_Huge variety of utility tools and data analytics for the Cosmos Ecosystem._
+
+### 🤖 [Telegram Proposal Bot](https://t.me/nodejumper_governance_bot)
+_A telegram bot to notify users of governance proposals when they're available for voting._
+
+### 🛠 [Cosmos Scripts](https://github.com/nodejumper-org/cosmos-scripts) 
+_Installation and upgrade scripts for the Cosmos Ecosystem._
+
+### 📖 [Wiki](https://github.com/nodejumper-org/nodejumper/wiki)
+_Learn about how to use Nodejumper tools._
