@@ -10,9 +10,8 @@
   <a href="https://twitter.com/nodejumper"><img src="/profile/static/twitter.svg" width="64" /></a>
   &nbsp; &nbsp;
   <a href="https://medium.com/@NODEJUMPER"><img src="/profile/static/medium.svg" width="64" /></a>
-
-<a href="https://www.youtube.com/playlist?list=PLto8z5hKJjmtaN1ToLW2CswOtoeiQbSCa"><img src="/profile/static/youtube.svg" width="64" /></a>
   &nbsp; &nbsp;
+  <a href="https://www.youtube.com/playlist?list=PLto8z5hKJjmtaN1ToLW2CswOtoeiQbSCa"><img src="/profile/static/youtube.svg" width="64" /></a>
 </p>
 
 ## 🏢 About Us 
