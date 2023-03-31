@@ -20,14 +20,16 @@ Nodejumper is a professional POS validator and staking provider for Cosmos ecosy
 
 ## 🎖️ Our Achievements
 
-<img src="https://img.shields.io/badge/Genesis%20Validators-10-brightgreen">
-<img src="https://img.shields.io/badge/Supported%20Project-41-brightgreen">
-<img src="https://img.shields.io/badge/Unique%20Users%20Monthly-5K-brightgreen">
-<img src="https://img.shields.io/badge/Views%20Monthly-100K-brightgreen">
-<img src="https://img.shields.io/badge/Community%20Members-3K-brightgreen">
-<img src="https://img.shields.io/badge/Commits%20in%20the%20last%206%20months-2K-brightgreen">
-<img src="https://img.shields.io/badge/Open%20Pull%20Requests%20&%20Issues-20-brightgreen">
-<img src="https://img.shields.io/badge/Years%20of%20IT%20Experties-10-brightgreen">
+<p align="center">
+    <img src="https://img.shields.io/badge/Genesis%20Validators-10-brightgreen">
+    <img src="https://img.shields.io/badge/Supported%20Project-41-brightgreen">
+    <img src="https://img.shields.io/badge/Unique%20Users%20Monthly-5K-brightgreen">
+    <img src="https://img.shields.io/badge/Views%20Monthly-100K-brightgreen">
+    <img src="https://img.shields.io/badge/Community%20Members-3K-brightgreen">
+    <img src="https://img.shields.io/badge/Commits%20in%20the%20last%206%20months-2K-brightgreen">
+    <img src="https://img.shields.io/badge/Open%20Pull%20Requests%20&%20Issues-20-brightgreen">
+    <img src="https://img.shields.io/badge/Years%20of%20IT%20Experties-10-brightgreen">
+</p>
 
 
 ## 💫 Our Services
