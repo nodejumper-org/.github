@@ -52,7 +52,7 @@ Apart from the secure, reliable and professional validation services with advanc
 
 8. Blockchain analytics for community: tokenomics, price/trading stats, comission & voting power distribution;
 
-9. Telegram/Discord governance proposal bot;
+9. Telegram & Discord governance proposal bot;
 
 
 ##  💎 Our Products
