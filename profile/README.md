@@ -1,8 +1,8 @@
 ![NODEJUMPER github banner](/profile/static/nj-banner.png)
 
 <p align="center">
-  <a href="https://discord.gg/7WcRaYHDXe"><img src="/profile/static/discord.svg" width="64" alt="Discord Server" /></a>
-  &nbsp; &nbsp;
+<!--   <a href="https://discord.gg/7WcRaYHDXe"><img src="/profile/static/discord.svg" width="64" alt="Discord Server" /></a>
+  &nbsp; &nbsp; -->
   <a href="https://t.me/nodejumper"><img src="/profile/static/telegram.svg" width="64" alt="Telegram ENG" /></a>
   &nbsp; &nbsp;
   <a href="https://github.com/nodejumper-org"><img src="/profile/static/github.svg" width="64" alt="Github Organization"/></a>
@@ -11,7 +11,7 @@
   &nbsp; &nbsp;
   <a href="https://medium.com/@NODEJUMPER"><img src="/profile/static/medium.svg" width="64" alt="Medium Blog"/></a>
   &nbsp; &nbsp;
-  <a href="https://www.youtube.com/playlist?list=PLto8z5hKJjmtaN1ToLW2CswOtoeiQbSCa"><img src="/profile/static/youtube.svg" width="64" alt="Youtube Playlist" /></a>
+<!--   <a href="https://www.youtube.com/playlist?list=PLto8z5hKJjmtaN1ToLW2CswOtoeiQbSCa"><img src="/profile/static/youtube.svg" width="64" alt="Youtube Playlist" /></a> -->
 </p>
 
 ## 🏢 About Us 
