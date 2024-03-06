@@ -21,12 +21,12 @@ Nodejumper is a professional POS validator and staking provider for Cosmos ecosy
 ## 🎖️ Our Achievements
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Genesis%20Validators-10-brightgreen">
-    <img src="https://img.shields.io/badge/Supported%20Projects-41+-brightgreen">
+    <img src="https://img.shields.io/badge/Genesis%20Validators-15-brightgreen">
+    <img src="https://img.shields.io/badge/Supported%20Projects-45+-brightgreen">
     <img src="https://img.shields.io/badge/Unique%20Users%20Monthly-5K+-brightgreen">
     <img src="https://img.shields.io/badge/Views%20Monthly-100K+-brightgreen">
     <img src="https://img.shields.io/badge/Community%20Members-3K+-brightgreen">
-    <img src="https://img.shields.io/badge/Total%20Number%20Of%20Commits-2K+-brightgreen">
+    <img src="https://img.shields.io/badge/Total%20Number%20Of%20Commits-10K+-brightgreen">
     <img src="https://img.shields.io/badge/Open%20Pull%20Requests%20&%20Issues-100+-brightgreen">
     <img src="https://img.shields.io/badge/Years%20of%20IT%20Expertise-10+-brightgreen">
 </p>
